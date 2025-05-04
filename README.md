@@ -1,4 +1,62 @@
 # Jogo Jokenpô
+
+Plano de Aula e Rubrica Avaliativa – Projeto Jokenpô
+Plano de Aula – Desenvolvimento Web: Projeto Jokenpô
+1. Identificação
+Escola: CETI Cônego Cardoso
+Professor: Senhor Eduardo Mineiro
+Disciplina: Tecnologia da Informação – Desenvolvimento Web
+Ano: 2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas
+Carga Horária: 2 aulas (100 minutos)
+
+2. Tema da Aula
+Desenvolvimento de jogo interativo com HTML, CSS e JavaScript – Jokenpô.
+
+3. Objetivos de Aprendizagem
+- Compreender os fundamentos da tríade da Web: HTML, CSS e JavaScript.
+- Desenvolver um jogo simples aplicando lógica condicional e interação com o usuário.
+- Estimular a criatividade e o trabalho em equipe por meio da prática de programação.
+
+4. Habilidades da BNCC – Ensino Médio Técnico (Eixo TI)
+• EM13MAT401: Resolver e elaborar problemas por meio da modelagem computacional utilizando linguagens de programação.
+• EM13CNT305: Utilizar recursos digitais para criação de produtos de informação (simuladores, jogos etc.).
+• EMPETEC05: Compreender e aplicar princípios de programação estruturada para construção de algoritmos.
+
+5. Metodologia
+- Aula expositiva dialogada.
+- Apresentação de exemplo prático (projeto Jokenpô).
+- Desenvolvimento em pares no laboratório de informática.
+- Testes e ajustes do código pelos alunos.
+- Apresentação final dos grupos.
+
+6. Recursos Didáticos
+- Computadores com editores de código (VS Code, Sublime ou Notepad++).
+- Projetor multimídia.
+- Internet para consulta e pesquisa.
+- Código-fonte de referência (arquivo .zip fornecido).
+
+7. Avaliação
+Através da rubrica de desempenho em critérios técnicos, colaboração e apresentação do projeto.
+
+8. Referências
+BRASIL. Base Nacional Comum Curricular – Ensino Médio. MEC, 2018.
+SOUZA, Danilo Filitto. Lógica de Programação com JavaScript. Novatec, 2021.
+ALURA. Cursos de Desenvolvimento Web. StartLab.
+
+Rubrica Avaliativa – Projeto Jokenpô
+Objetivo: Avaliar o desempenho dos estudantes na criação, compreensão e apresentação de um jogo interativo com base em lógica de programação e princípios de desenvolvimento web.
+Critério	Excelente (10)	Bom (7–9)	Regular (4–6)	Insuficiente (0–3)
+Estrutura do Código HTML	Utiliza corretamente as tags semânticas e estrutura o conteúdo com clareza.	Utiliza as tags essenciais corretamente, com pequenas falhas.	Estrutura pouco clara, com uso limitado de tags semânticas.	Estrutura confusa ou com uso incorreto de tags.
+Estilo CSS	Layout visual atrativo, uso eficiente de classes, boas práticas e responsividade.	Boa aparência geral, mas com ajustes pontuais necessários.	Estilo aplicado com limitações ou pouco harmônico.	Não aplicou estilo ou comprometeu o visual do projeto.
+Lógica em JavaScript	Implementação correta, lógica funcional e compreensão demonstrada.	Funciona com pequenas falhas; lógica compreensível.	Código incompleto ou com erros lógicos frequentes.	Lógica ausente ou incoerente.
+Funcionamento Geral	O jogo funciona perfeitamente com respostas visuais corretas.	Jogo apresenta funcionamento geral satisfatório.	O jogo funciona parcialmente.	O jogo não funciona.
+Participação e Trabalho em Equipe	Participa ativamente, colabora e contribui com ideias.	Participa na maioria das atividades.	Participa de forma limitada.	Não participa ou depende totalmente do grupo.
+Apresentação Final	Comunicação clara, demonstra domínio do projeto.	Explica adequadamente o funcionamento.	Apresentação confusa ou pouco desenvolvida.	Não apresenta ou não compreende o projeto.
+
+Nota final: Soma dos critérios / 6
+
+**MANUAL DESCRITIVO COMPLETO E DIDÁTICO** DO JOGO **JOKENPÔ (PEDRA, PAPEL E TESOURA)**
+
 Abaixo apresento um **manual descritivo completo e didático** do jogo **Jokenpô (Pedra, Papel e Tesoura)**, desenvolvido utilizando as tecnologias **HTML, CSS e JavaScript**. O conteúdo está redigido em linguagem formal, conforme as normas da escrita acadêmica, adequado para fins educacionais e pode ser adaptado para aulas de introdução à programação front-end.
 
 ---
